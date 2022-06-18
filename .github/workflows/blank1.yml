@@ -1,0 +1,5 @@
+select
+  *
+ FROM 
+  .github/workflows/blank.yml
+  
